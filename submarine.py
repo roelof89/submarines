@@ -52,7 +52,7 @@ image_url = image.getThumbURL({
 response = requests.get(image_url)
 
 if response.status_code == 200:
-    with open('satellite_image_high_res.png', 'wb') as f:
+    with open('img/satellite_image_high_res.png', 'wb') as f:
         f.write(response.content)
     print('Image saved as satellite_image_high_res.png')
 else:
