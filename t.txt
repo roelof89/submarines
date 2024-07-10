@@ -1,0 +1,2 @@
+https://earth.google.com/web/@52.91635771,158.48825657,0.26576626a,1205.35671004d,35y,359.99999914h,0t,0r/data=OgMKATA
+https://earth.google.com/web/@52.917,158.487,0.265a,968.00
